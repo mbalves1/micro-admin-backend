@@ -28,6 +28,8 @@
 
 ## Installation
 
+Projeto desenvolvido com intuito de entender as configuracoes do microservicos usando o nest, precisa de ajustes
+
 ```bash
 $ npm install
 ```
